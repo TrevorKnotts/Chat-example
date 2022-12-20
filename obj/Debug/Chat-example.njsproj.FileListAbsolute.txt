@@ -1,0 +1,3 @@
+C:\Users\tknotts\source\repos\Chat-example\Chat-example\obj\Debug\Chat-example.njsproj.AssemblyReference.cache
+C:\Users\tknotts\source\repos\Chat-example\Chat-example\obj\Debug\Chat-example.njsproj.CoreCompileInputs.cache
+C:\Users\tknotts\source\repos\Chat-example\Chat-example\bin\Microsoft.NodejsTools.WebRole.dll
